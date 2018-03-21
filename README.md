@@ -1,4 +1,5 @@
 # best-repo-ever
 Salesforce Git and Github Basics Module - Demo
 
-- Merge Conflict Test
+- Work with Github Workflow
+- Work with Teams in Github
