@@ -1,3 +1,2 @@
 # best-repo-ever
-================
-##Salesforce Git and Github Basics Module - Demo
+Salesforce Git and Github Basics Module - Demo
